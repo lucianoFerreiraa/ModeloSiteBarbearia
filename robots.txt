@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucianoferreiraa.github.io/ModeloSiteBarbearia/sitemap.xml
